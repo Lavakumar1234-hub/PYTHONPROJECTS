@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c1d63a3-7bbc-4135-8cfd-dd996efa476a" name="Changes" comment="OOPS Example9">
+    <list default="true" id="2c1d63a3-7bbc-4135-8cfd-dd996efa476a" name="Changes" comment="OOPS EXAMPLE18">
+      <change afterPath="$PROJECT_DIR$/PYTHON PROJECT1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oopss.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -25,12 +28,12 @@
     &quot;assignee&quot;: &quot;Lavakumar1234-hub&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Lavakumar1234-hub/python_practice.git&quot;,
-    &quot;accountId&quot;: &quot;7e5fcbb6-63b8-4818-a167-1ed3736817db&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Lavakumar1234-hub/PYTHONPROJECTS.git",
+    "accountId": "7e5fcbb6-63b8-4818-a167-1ed3736817db"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8,
   &quot;fromUser&quot;: false
@@ -44,9 +47,20 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.OOPS example2.executor": "Run",
+    "Python.PASSWORDGENERATOR1.executor": "Run",
+    "Python.PROJECT01.executor": "Run",
+    "Python.PROJECT1.executor": "Run",
+    "Python.PYTHON PROJECT1.executor": "Run",
     "Python.hello.executor": "Run",
     "Python.oops example6.executor": "Run",
     "Python.oops10.executor": "Run",
+    "Python.oops11.executor": "Run",
+    "Python.oops12.executor": "Run",
+    "Python.oops13.executor": "Run",
+    "Python.oops14.executor": "Run",
+    "Python.oops15.executor": "Run",
+    "Python.oops16.executor": "Run",
+    "Python.oops18.executor": "Run",
     "Python.oops3.executor": "Run",
     "Python.oops4.executor": "Run",
     "Python.oops5.executor": "Run",
@@ -54,6 +68,10 @@
     "Python.oops7.executor": "Run",
     "Python.oops8.executor": "Run",
     "Python.oops9.executor": "Run",
+    "Python.oopss.executor": "Run",
+    "Python.passwordgenerator.executor": "Run",
+    "Python.pyproject1.executor": "Run",
+    "Python.pythonproject1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -195,11 +213,150 @@
       <option name="project" value="LOCAL" />
       <updated>1783400065502</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="OOPS Example10">
+      <option name="closed" value="true" />
+      <created>1783400860090</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1783400860090</updated>
+    </task>
+    <task id="LOCAL-00016" summary="OOPS Example10">
+      <option name="closed" value="true" />
+      <created>1783401026150</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1783401026150</updated>
+    </task>
+    <task id="LOCAL-00017" summary="OOPS Example">
+      <option name="closed" value="true" />
+      <created>1783407123370</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1783407123370</updated>
+    </task>
+    <task id="LOCAL-00018" summary="PROJECT1:PASSWORD GENERATOR">
+      <option name="closed" value="true" />
+      <created>1783498909822</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1783498909822</updated>
+    </task>
+    <task id="LOCAL-00019" summary="PROJECT1:PASSWORD GENERATOR">
+      <option name="closed" value="true" />
+      <created>1783499190750</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1783499190750</updated>
+    </task>
+    <task id="LOCAL-00020" summary="PROJECT1:PASSWORD GENERATOR">
+      <option name="closed" value="true" />
+      <created>1783499575778</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1783499575778</updated>
+    </task>
+    <task id="LOCAL-00021" summary="PROJECT1:PASSWORD GENERATOR">
+      <option name="closed" value="true" />
+      <created>1783501345478</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1783501345478</updated>
+    </task>
+    <task id="LOCAL-00022" summary="PROJECT1:PASSWORD GENERATOR">
+      <option name="closed" value="true" />
+      <created>1783501552888</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1783501552888</updated>
+    </task>
+    <task id="LOCAL-00023" summary="PROJECT1:PASSWORD GENERATOR">
+      <option name="closed" value="true" />
+      <created>1783504735343</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1783504735343</updated>
+    </task>
+    <task id="LOCAL-00024" summary="OOPS EXAMPLE11">
+      <option name="closed" value="true" />
+      <created>1783526610227</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1783526610227</updated>
+    </task>
+    <task id="LOCAL-00025" summary="OOPS EXAMPLE12">
+      <option name="closed" value="true" />
+      <created>1783528713891</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1783528713891</updated>
+    </task>
+    <task id="LOCAL-00026" summary="OOPS EXAMPLE13">
+      <option name="closed" value="true" />
+      <created>1783531201806</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1783531201806</updated>
+    </task>
+    <task id="LOCAL-00027" summary="OOPS EXAMPLE14">
+      <option name="closed" value="true" />
+      <created>1783533281333</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1783533281333</updated>
+    </task>
+    <task id="LOCAL-00028" summary="OOPS EXAMPLE15">
+      <option name="closed" value="true" />
+      <created>1783536736673</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1783536736673</updated>
+    </task>
+    <task id="LOCAL-00029" summary="OOPS EXAMPLE16">
+      <option name="closed" value="true" />
+      <created>1783539610785</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1783539610785</updated>
+    </task>
+    <task id="LOCAL-00030" summary="OOPS EXAMPLE18">
+      <option name="closed" value="true" />
+      <created>1783576328726</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1783576328726</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
@@ -212,9 +369,18 @@
     <MESSAGE value="OOPS Example6" />
     <MESSAGE value="OOPS Example7" />
     <MESSAGE value="OOPS Example8" />
-    <MESSAGE value="OOPS Example10" />
     <MESSAGE value="OOPS Example9" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOPS Example9" />
+    <MESSAGE value="OOPS Example10" />
+    <MESSAGE value="OOPS Example" />
+    <MESSAGE value="PROJECT1:PASSWORD GENERATOR" />
+    <MESSAGE value="OOPS EXAMPLE11" />
+    <MESSAGE value="OOPS EXAMPLE12" />
+    <MESSAGE value="OOPS EXAMPLE13" />
+    <MESSAGE value="OOPS EXAMPLE14" />
+    <MESSAGE value="OOPS EXAMPLE15" />
+    <MESSAGE value="OOPS EXAMPLE16" />
+    <MESSAGE value="OOPS EXAMPLE18" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOPS EXAMPLE18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
